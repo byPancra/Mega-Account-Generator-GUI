@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](https://github.com/byPancra/MEGA-Account-Generator-GUI) | [Português (Brasil)](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-pt-BR) | [Español](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-es) | **日本語**
+[English](https://github.com/byPancra/MEGA-Account-Generator-GUI) | [Português (Brasil)](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-pt-BR) | [Español](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-es) | **日本語** | [繁體中文](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-zh-TW) | [简体中文](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-zh-CN)
 
 </div>
 <br>
