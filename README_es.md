@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="README.md">English</a> | <a href="README_pt-BR.md">Português (Brasil)</a> | <a href="README_es.md">Español</a> | <a href="README_ja.md">日本語</a>
+
+[English](README.md) | [Português (Brasil)](README_pt-BR.md) | [Español](README_es.md) | [日本語](README_ja.md)
+
 </div>
 <br>
 
