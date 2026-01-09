@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](README.md) | [Português (Brasil)](README_pt-BR.md) | [Español](README_es.md) | [日本語](README_ja.md)
+[English](README.md) | [Português (Brasil)](README_pt-BR.md) | [Español](README_es.md) | **日本語**
 
 </div>
 <br>
@@ -207,3 +207,4 @@ python signin_accounts.py
 <div align="center">
   <sub>Developed with ❤️ by <a href="https://github.com/byPancra">byPancra</a></sub>
 </div>
+
