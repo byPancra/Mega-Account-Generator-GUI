@@ -1,6 +1,6 @@
 <div align="center">
 
-**English** | [Português (Brasil)](README_pt-BR.md) | [Español](README_es.md) | [日本語](README_ja.md)
+**English** | [Português (Brasil)](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-pt-BR) | [Español](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-es) | [日本語](https://github.com/byPancra/MEGA-Account-Generator-GUI/tree/lang-ja)
 
 </div>
 <br>
